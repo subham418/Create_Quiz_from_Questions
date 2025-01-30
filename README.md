@@ -2,7 +2,7 @@
 - Initially this project has one DB (Question)
 - Later on, one more DB will be created after Generating Quiz from questions only (Using POST).
 - it has two controller, services and model (Quiz and Questions)
-- Perforemed Operations are:-
+- Performed Operations are:-
 - For Question
   1. http://localhost:8081/question/allQuestions - GET (this will return all questions)
   2. http://localhost:8081/question/id - GET (this will return question with that id)
